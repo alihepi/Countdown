@@ -1,0 +1,11 @@
+C:\Users\alimu\Desktop\CountdownTool\bin\Debug\CountdownTool.exe.config
+C:\Users\alimu\Desktop\CountdownTool\bin\Debug\CountdownTool.exe
+C:\Users\alimu\Desktop\CountdownTool\bin\Debug\CountdownTool.pdb
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.csproj.AssemblyReference.cache
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.Form1.resources
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.Properties.Resources.resources
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.exe
+C:\Users\alimu\Desktop\CountdownTool\obj\Debug\CountdownTool.pdb
